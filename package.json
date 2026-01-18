@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.13.2",
+    "header-generator": "^2.1.79",
+    "node-telegram-bot-api": "^0.67.0",
+    "user-agents": "^1.1.669"
+  }
+}
